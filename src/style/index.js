@@ -1,0 +1,11 @@
+export { default as Navbar } from '../style/navbar.scss';
+export { default as Article } from '../style/article.scss';
+export { default as Blog } from '../style/blog.scss';
+export { default as Brand } from '../style/brand.scss';
+export { default as CTA } from '../style/cta.scss';
+export { default as Feature } from '../style/feature.scss';
+export { default as Features } from '../style/features.scss';
+export { default as Footer } from '../style/footer.scss';
+export { default as Header } from '../style/header.scss';
+export { default as Possibility } from '../style/possibility.scss';
+export { default as WhatGPT3 } from '../style/whatgpt3.scss';
