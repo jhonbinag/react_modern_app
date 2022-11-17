@@ -12,20 +12,20 @@ const Header = () => (
         <p>Yet bed any for travelling assirance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence why everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
 
         <div className="gpt3__header-content__input">
-          <input type="email" placeholder="Enter your email"/>
+          <input type="email" placeholder="Your Email Address"/>
           <button type="button">Get Started</button>
         </div>
-        
-        <div className="gpt3__header-content__people">
-          <img src={people} alt='people'/>
-          <p>1,600 people requested access a visit in 24 hours</p>
-        </div>
-
-        <div className="gpt3__header-image">
-          <img src={ai} alt='a'/>
-        </div>
+       
+       <div className="gpt3__header-content__people">
+         <img src={people} alt="people"/>
+         <p>1,600 people requested access a visit in last 24 hours</p>
+       </div>
       </div>
+      <div className="gpt3__header-image">
+         <img src={ai} alt="ai"/>
+       </div>
     </div>
   )
 
 export default Header
+
