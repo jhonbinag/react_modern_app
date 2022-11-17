@@ -9,3 +9,5 @@ export { default as Footer } from '../style/footer.scss';
 export { default as Header } from '../style/header.scss';
 export { default as Possibility } from '../style/possibility.scss';
 export { default as WhatGPT3 } from '../style/whatgpt3.scss';
+export { default as App } from '../style/app.scss';
+export { default as Index } from '../style/index.scss';
